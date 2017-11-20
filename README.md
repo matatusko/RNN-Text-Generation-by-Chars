@@ -49,7 +49,7 @@ are some useful custom options I've decided to add to the code to 'visualize' th
 <br> - *sample_text_size* - how many characters should the sample have 
 <br> - *save_step* - saves the model after specified amount of steps
 <br> - *first_sequence* - first sequence from which the model will predict the next characters in the sample step. Set to whatever fits your data
-4) You can train your own data by changing line 264 in the code: *PARAMS = preprocess_data(PARAMS, 'YOUR_OWN_DATA.txt')*
+4) You can train the model on your own data by changing line 264 in the code: *PARAMS = preprocess_data(PARAMS, 'YOUR_OWN_DATA.txt')*
 5) Run from console with commands listed below. If you have trained the model before and want to continue training using those weights, set *restore=True*
 <br> - *python rnn.py train*
 <br> - *python rnn.py sample*
