@@ -1,4 +1,4 @@
-# RNN Text generation
+## RNN Text generation
 
 Simple text genartion model using Recurrent Neural Networks and LSTM cells written in Python with Tensorflow (tested on v1.4). 
 
@@ -7,7 +7,7 @@ produced some very interesting results. Nevertheless, the code should work with 
 More on that in the usage section below. The model works on the char-by-char basis, rather than word by word. As visible from the
 sample below, RNN learn English and the idea behind metal very well ;)
 
-# Sample output:
+## Sample output:
 
 terror the seeds of silent, we've on the seed of the one that i see
 <br>the seed of our sacrifice the skin
@@ -38,7 +38,7 @@ terror the seeds of silent, we've on the seed of the one that i see
 <br>to the tree of horror i will be the one to made this war
 <br>welcome to the corpse of the strength of conscion fragment
 
-# Usage:
+## Usage:
 1) Copy or download the rnn.py code. 
 2) Hyperparameters can be adjusted inside the *if __name__ == 'main':* statement at the bottom of the code
 3) The function of all of the hyperparameters are nicely commented in the code iteself. I won't go too much into details of RNN specific
