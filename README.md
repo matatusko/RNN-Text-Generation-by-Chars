@@ -5,7 +5,7 @@ Simple text genartion model using Recurrent Neural Networks and LSTM cells writt
 Model was trained on various metal lyrics, including The Black Dahlia Murder, Arch Enemy, Cannibal Corpse, Dethklok etc. and
 produced some very interesting results. Nevertheless, the code should work with any custom input so feel free to play around.
 More on that in the usage section below. The model works on the char-by-char basis, rather than word by word. As visible from the
-sample below, RNN learn English and the idea behind metal very well ;)
+sample below, RNN learn English and the idea behind metal very well ;) More samples available in sample.md
 
 ## Sample output:
 
