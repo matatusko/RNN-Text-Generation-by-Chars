@@ -11,34 +11,36 @@ Feel free to use the pretrained weights available in ckpt folder. You can either
 
 ## Sample output:
 
-terror the seeds of silent, we've on the seed of the one that i see
-<br>the seed of our sacrifice the skin
-<br>the burning heats
-<br>and we are the tribulation within this world with blood
-<br>and the story of their dead are
-<br>slaughtered by the dead
-<br>the bones of the strongest will sure
-<br>the skulls of the storm
-<br>the soul will all the strike
-<br>one that i seek to the world of the storm
-<br>we're the ones of the dead and soul with the dead
-<br>and the shadows of the dead and the strong will remain
-<br>strains the blood of the soul
-<br>incisination and the stars
-<br>we are the shadow of the strong
-<br>well we are one
-<br>we are the sky
-<br>and the sword of the dead in hell
-<br>sheep inside my head one with the floshes of the soul
-<br>and the strendt of the dead,
-<br>the dead cold be one with the pain
-<br>stretch of the dead on the storm
-<br>that is worth of flesh they shed their flesh
-<br>there will be the one to thing today
-<br>see them all die
-<br>i am the strength
-<br>to the tree of horror i will be the one to made this war
-<br>welcome to the corpse of the strength of conscion fragment
+cannibalize the masters
+<br>of his lost
+<br>disemboweled fires
+<br>bright and crossve of the reality on top of the power
+<br>until the only things that should not a rige
+<br>when life shades to the one that weals
+<br>a face of life we're deface of the dead
+<br>slaughter out the souls of my bloodied fate
+<br>the spenches of hell is on the blood
+<br>and their insane with blood
+<br>so we shed our souls will be defe
+<br>and the secret of destruction
+<br>the beast in the stars and stretched on to your world
+<br>they're all die
+<br>will ther will befill their to decay
+<br>see the touch of mortals will be dead
+<br>the season of the touch of death
+<br>in a pay the corpus of his flesh
+<br>the blood of our end
+<br>all the brown in the dead
+<br>and the devoss the expure from the other side
+<br>i would want is the pain
+<br>with a savage beauty
+<br>for sure burn i've been bestowed in my soul
+<br>severed my heart
+<br>i see the darkness in my face of flesh
+<br>i will before you with blood
+<br>you wnal the strength to find the shame
+<br>the truth is of your name of life
+<br>and it all belongs to feed of your own inside
 
 ## Usage:
 1) Copy or download the rnn.py code. 
