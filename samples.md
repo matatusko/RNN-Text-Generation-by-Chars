@@ -1,4 +1,4 @@
-# Sample #1
+## Sample #1
 <br>terror the seeds of silent, we've on the seed of the one that i see
 <br>the seed of our sacrifice the skin
 <br>the burning heats
@@ -28,7 +28,7 @@
 <br>to the tree of horror i will be the one to made this war
 <br>welcome to the corpse of the strength of conscion fragment
 
-# Sample #2
+## Sample #2
 <br>death take a star-witness the blackness
 <br>of your brethren in the dark
 <br>i see the winds of the dead sin to my feet
@@ -60,7 +60,7 @@
 <br>a shad from the outcher souls
 <br>are burning tort
 
-# Sample #3
+## Sample #3
 <br>cannibalize the masters
 <br>of his lost
 <br>disemboweled fires
@@ -92,7 +92,7 @@
 <br>the truth is of your name of life
 <br>and it all belongs to feed of your own inside
 
-# Sample #4
+## Sample #4
 <br>love and dead
 <br>entrails are maining of hell
 <br>i seek to sufforal masturis
