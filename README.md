@@ -7,6 +7,8 @@ produced some very interesting results. Nevertheless, the code should work with 
 More on that in the usage section below. The model works on the char-by-char basis, rather than word by word. As visible from the
 sample below, RNN learn English and the idea behind metal very well ;) More samples available in sample.md
 
+Feel free to use the pretrained weights available in ckpt folder. You can either play around with those or train them further. However, keep in mind that these will only generate metal lyrics, so if you want something different you might need to retrain the whole model.
+
 ## Sample output:
 
 terror the seeds of silent, we've on the seed of the one that i see
